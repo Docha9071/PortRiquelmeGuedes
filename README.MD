@@ -12,7 +12,7 @@ Portfólio Riquelme Guedes: Desenvolvimento Web e Design de interfaces
 <br>
 
 <p align="center">
-  <img alt="Porfolio Pictures" src=".github/Preview.jpg" width="100%">
+  <img alt="Porfolio Pictures" src="img/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
